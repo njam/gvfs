@@ -1508,7 +1508,7 @@ msgstr "Errore sconosciuto."
 #: daemon/gvfsbackendmtp.c:598
 #, c-format
 msgid "libmtp error: %s"
-msgstr "Errore libtmp: %s"
+msgstr "Errore libmtp: %s"
 
 #: daemon/gvfsbackendmtp.c:904
 msgid "No device specified"
